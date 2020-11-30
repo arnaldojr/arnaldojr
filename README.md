@@ -12,5 +12,5 @@ I'm Arnaldo Junior from Brazil, currentily I work in computer laboratory at Comp
 * :robot: ROS, Gazebo
 
 ## Examples of Work
-<img src="https://github.com/arnaldojr/arnaldojr/blob/main/robotsim.gif" width="512" >
+<img src="https://github.com/arnaldojr/arnaldojr/blob/main/robotsim.gif" width="360" >
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=arnaldojr&theme=" />
