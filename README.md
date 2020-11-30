@@ -13,4 +13,11 @@ I'm Arnaldo Junior from Brazil, currentily I work in computer laboratory at Comp
 
 ## Examples of Work
 <img src="https://github.com/arnaldojr/arnaldojr/blob/main/robotsim.gif" width="400" >
+
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+  
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=arnaldojr&theme=" />
