@@ -1,8 +1,9 @@
 ## Arnaldo Viana Jr
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arnaldo%20Viana-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldo-alves-viana-junior-b3192334/)](https://www.linkedin.com/in/arnaldo-alves-viana-junior-b3192334/) 
-[![Mail Badge](https://img.shields.io/badge/-Arnaldojr-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)]https://www.youtube.com/channel/UCb6MEkxngDA5E1XBs_zULgQ) 
 [![Gmail Badge](https://img.shields.io/badge/-arnaldoavianajr@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldoavianajr@gmail.com)](mailto:arnaldoavianajr@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Arnaldo%20Viana-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldo-alves-viana-junior-b3192334/)](https://www.linkedin.com/in/arnaldo-alves-viana-junior-b3192334/)
+[![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCb6MEkxngDA5E1XBs_zULgQ) 
+
 
 I'm Arnaldo Junior from Brazil, currentily I work in computer laboratory at Computer Engineering - INSPER. I really enjoy development like Embedded Systyem and IoT, as well as work in Robots and Vision Computer. I also enjoy hardware design, IA, ML, and electronics in general.
 
