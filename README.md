@@ -5,7 +5,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCb6MEkxngDA5E1XBs_zULgQ) 
 
 
-I'm Arnaldo Junior from Brazil, currentily I work in computer laboratory at Computer Engineering - INSPER. I really enjoy development like Embedded Systyem and IoT, as well as work in Robots and Vision Computer. I also enjoy hardware design, IA, ML, and electronics in general.
+I'm Arnaldo Junior from Brazil, currently I work in a robotics laboratory at Computer Engineering - INSPER. I really enjoy development like Embedded System and IoT, as well as work in Robots and Computer Vision. I also enjoy hardware design, AI, ML, and electronics in general.
 
 ## Skills and Experience
 
