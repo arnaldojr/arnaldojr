@@ -10,8 +10,8 @@ I'm Arnaldo Junior from Brazil, currently I work in a robotics laboratory at Com
 ## Skills and Experience
 
 * 
-* :Computer: Linux, Shell Script, Docker
-* :Computer: Raspberry PI, Arduino, Embedded Systems
+* :computer: Linux, Shell Script, Docker
+* :computer: Raspberry PI, Arduino, Embedded Systems
 * :snake: Python, C/C++, OpenCV
 * :robot: ROS, Gazebo
 
